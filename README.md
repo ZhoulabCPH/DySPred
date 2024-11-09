@@ -1,4 +1,4 @@
-# DySPred
+# DySPred [![DOI](https://zenodo.org/badge/736617244.svg)](https://doi.org/10.5281/zenodo.14058681)
 Code for "Leveraging real-world pharmacovigilance data with deep learning to predict population-scale toxicity landscape of immune checkpoint inhibitors"
 ![](https://github.com/ZhoulabCPH/DySPred/edit/master/Workflow.png)
 
